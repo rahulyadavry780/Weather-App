@@ -1,0 +1,2 @@
+apikey:968c870bf527ebc5b24a0c8a1f8952ce
+https://api.openweathermap.org/data/2.5/weather?b=Delhi&appid={API key}&units=metric
